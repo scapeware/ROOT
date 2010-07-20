@@ -10,6 +10,7 @@ public class GitTest {
 	}
 
 	private static void test() {
-		System.out.println("test");
+		System.out.println("test 1");
+		
 	}
 }

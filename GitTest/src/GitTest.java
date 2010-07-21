@@ -5,12 +5,10 @@ public class GitTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		test();
 	}
 
 	private static void test() {
-		System.out.println("test 1");
-		
+		System.out.println("123456789".hashCode());
 	}
 }
